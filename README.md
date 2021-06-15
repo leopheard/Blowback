@@ -1,7 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://omny.fm/shows/blowback">Blockback</a> podcast.<br>
 
-<img src="https://www.omnycontent.com/d/programs/aaea4e69-af51-495e-afc9-a9760146922b/4a3ca742-9a68-4850-a727-ab790176c0e9/image.jpg" width="400" height="400" alt="Blowback"><br>
-<img src="https://github.com/leopheard/blowback/blob/master/resources/media/animated.gif?raw=true" width="400" height="400" alt="Blowback"><br>
+<img src="https://github.com/leopheard/blowback/blob/master/resources/media/animated.gif?raw=true" alt="Blowback"><br>
 
 A podcast about the American Empire.<br>
 
